@@ -1,0 +1,44 @@
+_repo: Cricket_67430
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Richards, Harriet Roosevelt
+    alias: Richards, Harriet R.
+    deathdate: 1932
+    gutenberg_agent_id: '8437'
+    url: http://www.gutenberg.org/2009/agents/8437
+creator:
+  author:
+    agent_name: Timlow, Elizabeth Weston
+    alias: Timlow, Elizabeth Westyn
+    birthdate: 1861
+    deathdate: 1931
+    gutenberg_agent_id: '26546'
+    url: http://www.gutenberg.org/2009/agents/26546
+description: ''
+gutenberg_issued: '2022-02-18'
+identifiers:
+  gutenberg: '67430'
+language: en
+pgterms:marc905: 20070725105137timlow
+pgterms:marc906: '1895'
+pgterms:marc907: US
+production_note: Richard Tonsing, Louise Davies, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :Estes and Lauriat,1895.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Fourth of July -- Juvenile fiction'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Kittens -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- GITenberg
+title: Cricket
+url: http://www.gutenberg.org/ebooks/67430
